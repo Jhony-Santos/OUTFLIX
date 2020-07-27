@@ -1,0 +1,6 @@
+<?php
+
+    echo ("VOCÊ DIGITOU O NÚMERO ERRADO. VOLTE EM SEU EMAIL E DIGITE O NÚMERO 1");
+
+
+?>

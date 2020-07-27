@@ -1,0 +1,23 @@
+.primeiraDiv{
+   border-width: 1%;
+   border-style: solid;
+   border-color:blue;
+   background-color:whitesmoke;
+   border-radius: 1%;
+   margin-top: 4%;
+   margin-bottom: 12%;
+   margin-left: 25%;
+   margin-right: 25%;   
+   padding-top: 3%;
+   padding-bottom: 6%;
+   padding-left: 8%;
+   padding-right: 1%;    
+
+}
+
+.campoSemPreenchimento{
+   border-style: solid;
+   border-color:red;
+}
+
+   
